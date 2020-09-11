@@ -6,4 +6,4 @@
   
 <p> This image is located on our Teams website for the UNC Bears Wrestling Team. You can also find information about the rest of our team and our schedule"</p>
 
-<a href="
+<a href="https://github.com/Jgfate16/BACS200-index.html">Go back to week-2 page</a>
